@@ -7,13 +7,17 @@ STEPS TO GO THROUGH:
 
 Make sure you have a GMAIL account with APP PASSWORD and have activated IMAP service. 
 
+APP PASSWORD  DETAILS INFO: https://support.google.com/accounts/answer/185833?hl=en
+
+IMAP DETAILS INFO: https://support.google.com/mail/answer/7126229?hl=en#zippy=
+
 Must have a TRADING VIEW account with same GMAIL ID.
 
 Prepare a JSON type ALERT string with prefix and pstfox string.
 
 e.g. <prefix_string>{'strategy':'<your_strategy_name>','ticker':'{{ticker}}','price':{{close}},'action':'{{strategy.order.action}}'}<postfix_string>
 
-According to main.py the ALERT message string can be,
+According to main.py the ALERT message string should be,
 
 #TVALERT#{'strategy':'Supertrend_10_3','ticker':'{{ticker}}','price':{{close}},'action':'{{strategy.order.action}}'}#TVALERT#
 
