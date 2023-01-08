@@ -23,6 +23,8 @@ According to main.py the ALERT message string should be,
 
 #TVALERT#{'strategy':'Supertrend_10_3','ticker':'{{ticker}}','price':{{close}},'action':'{{strategy.order.action}}'}#TVALERT#
 
+Create an alert with any strategy and paste the prepared ALERT string in the message section.
+
 You can modify the above format according to your need or can directly mention in PINE Script alert method. 
 
 Make sure you have python installed or else you can make a quick go with Googlecolab, https://colab.research.google.com/
