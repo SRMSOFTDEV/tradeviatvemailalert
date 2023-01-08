@@ -11,6 +11,8 @@ APP PASSWORD  DETAILS INFO: https://support.google.com/accounts/answer/185833?hl
 
 IMAP DETAILS INFO: https://support.google.com/mail/answer/7126229?hl=en#zippy=
 
+Replace your EMAIL and APP-PASSWORD in document_details.py file.
+
 Must have a TRADING VIEW account with same GMAIL ID.
 
 Prepare a JSON type ALERT string with prefix and pstfox string.
