@@ -28,3 +28,5 @@ Make sure you have python installed or else you can make a quick go with Googlec
 Install the requirenets from requirements.txt file.
 
 Run the main.py file. 
+
+Once done Terminate the LOOP with CTRL+C.
