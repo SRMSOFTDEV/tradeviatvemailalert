@@ -6,7 +6,6 @@ from itertools import chain
 from datetime import datetime
 from pytz import timezone
 from dateutil import parser as date_parser
-from pya3 import *
 
 # User Definded .py files
 import document_details
