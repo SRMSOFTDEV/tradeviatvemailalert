@@ -1,7 +1,7 @@
 # TRADE VIA TRADINGVIEW EMAIL ALERT
 Python Code to Trade Via TradingView Email ALERTS
 
-Please follow the youtube video : 
+Please follow the youtube video : https://youtu.be/DQuknSDjfGw
 
 STEPS TO GO THROUGH:
 
